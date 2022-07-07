@@ -1,0 +1,15 @@
+D:\Code\004\EventSample\EventSample\bin\Debug\EventSample.exe.config
+D:\Code\004\EventSample\EventSample\bin\Debug\EventSample.exe
+D:\Code\004\EventSample\EventSample\bin\Debug\EventSample.pdb
+D:\Code\004\EventSample\EventSample\obj\Debug\EventSample.csproj.AssemblyReference.cache
+D:\Code\004\EventSample\EventSample\obj\Debug\MainWindow.g.cs
+D:\Code\004\EventSample\EventSample\obj\Debug\App.g.cs
+D:\Code\004\EventSample\EventSample\obj\Debug\EventSample_MarkupCompile.cache
+D:\Code\004\EventSample\EventSample\obj\Debug\EventSample_MarkupCompile.lref
+D:\Code\004\EventSample\EventSample\obj\Debug\MainWindow.baml
+D:\Code\004\EventSample\EventSample\obj\Debug\EventSample.g.resources
+D:\Code\004\EventSample\EventSample\obj\Debug\EventSample.Properties.Resources.resources
+D:\Code\004\EventSample\EventSample\obj\Debug\EventSample.csproj.GenerateResource.cache
+D:\Code\004\EventSample\EventSample\obj\Debug\EventSample.csproj.CoreCompileInputs.cache
+D:\Code\004\EventSample\EventSample\obj\Debug\EventSample.exe
+D:\Code\004\EventSample\EventSample\obj\Debug\EventSample.pdb

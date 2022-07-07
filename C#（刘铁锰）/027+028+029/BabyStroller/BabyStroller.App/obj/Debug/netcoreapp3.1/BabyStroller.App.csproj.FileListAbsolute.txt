@@ -1,0 +1,14 @@
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\bin\Debug\netcoreapp3.1\BabyStroller.App.exe
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\bin\Debug\netcoreapp3.1\BabyStroller.App.deps.json
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\bin\Debug\netcoreapp3.1\BabyStroller.App.runtimeconfig.json
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\bin\Debug\netcoreapp3.1\BabyStroller.App.runtimeconfig.dev.json
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\bin\Debug\netcoreapp3.1\BabyStroller.App.dll
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\bin\Debug\netcoreapp3.1\BabyStroller.App.pdb
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\obj\Debug\netcoreapp3.1\BabyStroller.App.csproj.AssemblyReference.cache
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\obj\Debug\netcoreapp3.1\BabyStroller.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\obj\Debug\netcoreapp3.1\BabyStroller.App.AssemblyInfoInputs.cache
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\obj\Debug\netcoreapp3.1\BabyStroller.App.AssemblyInfo.cs
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\obj\Debug\netcoreapp3.1\BabyStroller.App.csproj.CoreCompileInputs.cache
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\obj\Debug\netcoreapp3.1\BabyStroller.App.dll
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\obj\Debug\netcoreapp3.1\BabyStroller.App.pdb
+D:\Code\027+028+029\BabyStroller\BabyStroller.App\obj\Debug\netcoreapp3.1\BabyStroller.App.genruntimeconfig.cache

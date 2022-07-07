@@ -1,0 +1,7 @@
+D:\Code\020+021+022\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\Code\020+021+022\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\Code\020+021+022\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\Code\020+021+022\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+D:\Code\020+021+022\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Code\020+021+022\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\Code\020+021+022\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

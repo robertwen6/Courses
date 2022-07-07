@@ -1,0 +1,16 @@
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\bin\Debug\net5.0\ConsoleHellowWorld.exe
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\bin\Debug\net5.0\ConsoleHellowWorld.deps.json
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\bin\Debug\net5.0\ConsoleHellowWorld.runtimeconfig.json
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\bin\Debug\net5.0\ConsoleHellowWorld.runtimeconfig.dev.json
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\bin\Debug\net5.0\ConsoleHellowWorld.dll
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\bin\Debug\net5.0\ref\ConsoleHellowWorld.dll
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\bin\Debug\net5.0\ConsoleHellowWorld.pdb
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\net5.0\ConsoleHellowWorld.csproj.AssemblyReference.cache
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\net5.0\ConsoleHellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\net5.0\ConsoleHellowWorld.AssemblyInfoInputs.cache
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\net5.0\ConsoleHellowWorld.AssemblyInfo.cs
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\net5.0\ConsoleHellowWorld.csproj.CoreCompileInputs.cache
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\net5.0\ConsoleHellowWorld.dll
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\net5.0\ref\ConsoleHellowWorld.dll
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\net5.0\ConsoleHellowWorld.pdb
+D:\Code\002\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\net5.0\ConsoleHellowWorld.genruntimeconfig.cache

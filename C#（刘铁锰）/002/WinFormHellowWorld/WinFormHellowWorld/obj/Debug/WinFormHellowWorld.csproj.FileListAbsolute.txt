@@ -1,0 +1,10 @@
+D:\Code\002\WinFormHellowWorld\WinFormHellowWorld\bin\Debug\WinFormHellowWorld.exe.config
+D:\Code\002\WinFormHellowWorld\WinFormHellowWorld\bin\Debug\WinFormHellowWorld.exe
+D:\Code\002\WinFormHellowWorld\WinFormHellowWorld\bin\Debug\WinFormHellowWorld.pdb
+D:\Code\002\WinFormHellowWorld\WinFormHellowWorld\obj\Debug\WinFormHellowWorld.csproj.AssemblyReference.cache
+D:\Code\002\WinFormHellowWorld\WinFormHellowWorld\obj\Debug\WinFormHellowWorld.Properties.Resources.resources
+D:\Code\002\WinFormHellowWorld\WinFormHellowWorld\obj\Debug\WinFormHellowWorld.csproj.GenerateResource.cache
+D:\Code\002\WinFormHellowWorld\WinFormHellowWorld\obj\Debug\WinFormHellowWorld.csproj.CoreCompileInputs.cache
+D:\Code\002\WinFormHellowWorld\WinFormHellowWorld\obj\Debug\WinFormHellowWorld.exe
+D:\Code\002\WinFormHellowWorld\WinFormHellowWorld\obj\Debug\WinFormHellowWorld.pdb
+D:\Code\002\WinFormHellowWorld\WinFormHellowWorld\obj\Debug\WinFormHellowWorld.Form1.resources

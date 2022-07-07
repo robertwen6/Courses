@@ -1,0 +1,7 @@
+D:\Code\027+028+029\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Code\027+028+029\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Code\027+028+029\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Code\027+028+029\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Code\027+028+029\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Code\027+028+029\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Code\027+028+029\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
